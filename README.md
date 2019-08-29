@@ -17,14 +17,14 @@ This repo contains my submission for the final project in Coursera's Getting and
 * tidydataset.txt
    * The exported data set file created by the run_analysis.R script.  It contains a tidy data set with the average of each variable for         each activity and each subject, taken from the original merged data set.  
   
-  ## Prerequisites
+## Prerequisites
    * Install and load dplyr package
 ```
 install.packages("dplyr")
 library(dplyr)
 ```
    
-   ## Run from command line
+ ## Run from command line
    * Clone this repo
    * Run the script:
   ```
